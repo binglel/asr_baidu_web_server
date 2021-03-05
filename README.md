@@ -4,6 +4,7 @@ asr web server based on flask
 # requirement
 ```
 # py3
+
 pip install flask -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 # run
@@ -15,9 +16,7 @@ python asr_server.py
 ```
 python asr_client.py
 ```
-or
-
-use [Postman](https://www.postman.com/) to test
+or use [Postman](https://www.postman.com/) to test
 ```
 http://10.3.27.93:8080/asr
 ```
