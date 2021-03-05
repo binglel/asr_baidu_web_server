@@ -3,10 +3,10 @@ asr web server based on flask
 
 # requirement
 ```
+# py3
 pip install flask -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 # run
-py3
 ## server start
 ```
 python asr_server.py
